@@ -68,7 +68,7 @@ section{
     display: flex;
     align-items: center;
     padding: 2% 9%;
-    background:url('/project/portfolio/home.jpg')no-repeat;
+    background:url('home.jpg')no-repeat;
     background-size:cover;
     background-position:center ;
 }
